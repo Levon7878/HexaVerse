@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/font": "5.9.55",
+    "@mdi/js": "^7.4.47",
+    "roboto-fontface": "*",
+    "vuetify": "^3.6.0-beta.0.0",
+    "webfontloader": "^1.0.0",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  }
+}
