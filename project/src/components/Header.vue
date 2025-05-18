@@ -379,7 +379,7 @@ ul .my-link:hover {
   }
 }
 
-@media screen and (max-width: 1444px) {
+@media screen and (max-width: 1500px) {
   nav {
     display: none;
   }
