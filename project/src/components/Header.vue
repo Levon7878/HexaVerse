@@ -11,11 +11,11 @@
           </li>
           <li class="dropdown">
             <div class="icons-text-block">
-              <router-link class="my-link" to="">About Us</router-link>
+              <router-link class="my-link" >About Us</router-link>
               <i class="fa fa-angle-down"></i>
             </div>
             <div class="dropdown-content">
-              <router-link class="my-link" to="">Our Story</router-link>
+              <router-link class="my-link" >Our Story</router-link>
               <router-link class="my-link" to="/Team"
                 >Meet the Team</router-link
               >
@@ -383,6 +383,10 @@ ul .my-link:hover {
   nav {
     display: none;
   }
+    .burger {
+    display: block;
+  }
+
 }
 
 @media screen and (max-width: 1390px) {
@@ -409,9 +413,6 @@ ul .my-link:hover {
 @media screen and (max-width: 1200px) {
   .header-button {
     display: none;
-  }
-  .burger {
-    display: block;
   }
 
   .header {

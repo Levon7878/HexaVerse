@@ -8,16 +8,13 @@
       </div>
       <div class="card-grid2">
         <div class="card2" v-for="item in digitalItems" :key="item.id">
-          <div
-            class="card__background2"
-            :style="{ backgroundImage: 'url(' + item.image + ')' }"
-          ></div>
+          <div class="card__background2" :style="{ backgroundImage: 'url(' + item.image + ')' }"></div>
           <div class="card__content2">
             <p class="card__category2">{{ item.title }}</p>
             <div>
-             
 
-        
+
+
             </div>
           </div>
         </div>
@@ -27,7 +24,7 @@
 </template>
 
 <script>
-  import { useMyStore } from '@/store/myStore';
+import { useMyStore } from '@/store/myStore';
 export default {
 
   name: "Service",
@@ -42,7 +39,7 @@ export default {
 };
 </script>
 
-<style  scoped>
+<style scoped>
 /* .services {
      background: linear-gradient(
      to bottom,
@@ -61,7 +58,7 @@ export default {
   color: white;
 }
 
-.block-text > h2 {
+.block-text>h2 {
   font-size: 40px;
   font-weight: 700;
   line-height: 62px;
@@ -69,7 +66,7 @@ export default {
   text-align: center;
 }
 
-.block-text > p {
+.block-text>p {
   font-size: 23px;
 }
 
@@ -164,7 +161,7 @@ body {
   transform: scale(1.05) translateZ(0);
 }
 
-.card-grid2:hover > .card2:not(:hover) .card__background2 {
+.card-grid2:hover>.card2:not(:hover) .card__background2 {
   filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
 }
 
@@ -191,7 +188,7 @@ body {
   word-spacing: 100vw;
 }
 
-[class="dark"] .hero-section2{
+[class="dark"] .hero-section2 {
   background: linear-gradient(to bottom, #0d3b66, #051622);
 }
 

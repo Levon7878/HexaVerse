@@ -5,10 +5,7 @@
         <h2 class="touch-text">Get in touch</h2>
         <p>Reach out, and let's create a universe of possibilities together!</p>
       </div>
-      <div
-        class="get-block"
-        style="  background: #101933; border-radius: 16px"
-      >
+      <div class="get-block" style="  background: #101933; border-radius: 16px">
         <div class="block-section">
           <h2 class="text-h4 mb-2 text-white">Let's connect constellations</h2>
           <p class="mb-6 text-white">
@@ -16,77 +13,52 @@
             collaboration illuminate our skies.
           </p>
           <v-row class="d-flex flex-wrap">
-  <v-col cols="12" md="6" class="pa-1">
-    <v-text-field
-      label="First Name"
-      color="white"
-      outlined
-      dense
-    ></v-text-field>
-  </v-col>
-  
-  <v-col cols="12" md="6" class="pa-1">
-    <v-text-field
-      label="Last Name"
-      color="white"
-      outlined
-      dense
-    ></v-text-field>
-  </v-col>
-  
-  <v-col cols="12" class="pa-0">
-    <v-text-field
-      label="Email"
-      color="white"
-      outlined
-      dense
-    ></v-text-field>
-  </v-col>
-  
-  <v-col cols="12" class="pa-0">
-    <v-text-field
-      label="Phone Number"
-      color="white"
-      outlined
-      dense
-    ></v-text-field>
-  </v-col>
-  
-  <v-col cols="12" class="pa-0">
-    <v-textarea
-      label="Message"
-      color="white"
-      outlined
-      dense
-    ></v-textarea>
-  </v-col>
-  
-  <v-col cols="12" class="pa-0 d-flex justify-center">
-    <v-btn variant="outlined text-white">Submit</v-btn>
-  </v-col>
-</v-row>
+            <v-col cols="12" md="6" class="pa-1">
+              <v-text-field label="First Name" color="white" outlined dense></v-text-field>
+            </v-col>
+
+            <v-col cols="12" md="6" class="pa-1">
+              <v-text-field label="Last Name" color="white" outlined dense></v-text-field>
+            </v-col>
+
+            <v-col cols="12" class="pa-0">
+              <v-text-field label="Email" color="white" outlined dense></v-text-field>
+            </v-col>
+
+            <v-col cols="12" class="pa-0">
+              <v-text-field label="Phone Number" color="white" outlined dense></v-text-field>
+            </v-col>
+
+            <v-col cols="12" class="pa-0">
+              <v-textarea label="Message" color="white" outlined dense></v-textarea>
+            </v-col>
+
+            <v-col cols="12" class="pa-0 d-flex justify-center">
+              <v-btn variant="outlined text-white">Submit</v-btn>
+            </v-col>
+          </v-row>
 
         </div>
         <div class="block-text-image">
           <img src="../Img/it-1.jpg" alt="Contact Us Image" />
-          
+
         </div>
       </div>
     </div>
   </div>
 </template>
-  
-  <script>
+
+<script>
 export default {};
 </script>
-  
-  <style>
+
+<style>
 .block-section .v-field__field {
   color: aliceblue;
 }
 
 .get-block {
-    border-radius: 16px;
+  border-radius: 16px;
   display: flex;
   max-width: 1190px;
   align-items: center;
@@ -95,6 +67,7 @@ export default {};
   padding: 20px;
   margin-top: 50px;
 }
+
 .touch-container {
   padding-top: 150px;
   display: flex;
@@ -109,23 +82,24 @@ export default {};
   width: 100%;
 }
 
-@media (max-width:951px){
-  .get-block{
+@media (max-width:951px) {
+  .get-block {
     flex-wrap: wrap;
     justify-content: center;
   }
 
-  .block-section{
+  .block-section {
     max-width: max-content;
   }
-  .block-image img{
+
+  .block-image img {
     border-radius: 35px;
   }
 }
 
-.block-text-image img{
+.block-text-image img {
   width: 100%;
-    height: 550px;
+  height: 550px;
 }
 
 
@@ -168,4 +142,3 @@ export default {};
   background: linear-gradient(to bottom, #abceeb, #97b9d1);
 }
 </style>
-  

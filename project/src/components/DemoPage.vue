@@ -4,9 +4,7 @@
       <v-row class="demo-container" justify="space-evenly">
         <v-col cols="10" md="5" class="text-container-block">
           <v-row>
-            <v-text class="font-weight-bold text-white "
-              >Get a Free Demo of HexaVerse’s Digital Solutions</v-text
-            >
+            <v-text class="font-weight-bold text-white ">Get a Free Demo of HexaVerse’s Digital Solutions</v-text>
             <v-text h4 class="text-white">
               HexaVerse <strong>(bold)</strong> offers a full suite of digital
               services tailored to help your business grow. Whether you're
@@ -17,12 +15,7 @@
           </v-row>
 
           <v-row class="service-container pb-4" justify="center">
-            <v-col
-              v-for="(item, index) in demoBlock"
-              :key="index"
-              cols="12"
-              md="5"
-            >
+            <v-col v-for="(item, index) in demoBlock" :key="index" cols="12" md="5">
               <v-card class="service-block" elevation="2">
                 <v-card-title>
                   <strong>{{ item.title }}</strong>
@@ -45,75 +38,44 @@
         <v-col cols="10" md="4" class="form-container">
           <v-card elevation="2">
             <v-card-text>
-              <v-form
-                class="d-flex flex-wrap flex-column"
-                @submit.prevent="onSubmit"
-              >
+              <v-form class="d-flex flex-wrap flex-column" @submit.prevent="onSubmit">
                 <v-row justify="center">
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.firstName"
-                      label="First Name *"
-                      :rules="[rules.required]"
-                      required="true"
-                    ></v-text-field>
+                    <v-text-field v-model="form.firstName" label="First Name *" :rules="[rules.required]"
+                      required="true"></v-text-field>
                   </v-col>
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.lastName"
-                      label="Last Name *"
-                      :rules="[rules.required]"
-                      required
-                    ></v-text-field>
+                    <v-text-field v-model="form.lastName" label="Last Name *" :rules="[rules.required]"
+                      required></v-text-field>
                   </v-col>
                 </v-row>
 
                 <v-row justify="center">
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.email"
-                      label="Email *"
-                      :rules="[rules.required, rules.email]"
-                      required
-                    ></v-text-field>
+                    <v-text-field v-model="form.email" label="Email *" :rules="[rules.required, rules.email]"
+                      required></v-text-field>
                   </v-col>
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.phone"
-                      label="Phone Number *"
-                      :rules="[rules.required, rules.phone]"
-                      required
-                    ></v-text-field>
+                    <v-text-field v-model="form.phone" label="Phone Number *" :rules="[rules.required, rules.phone]"
+                      required></v-text-field>
                   </v-col>
                 </v-row>
 
                 <v-row justify="center">
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.companyName"
-                      label="Company Name *"
-                      :rules="[rules.required]"
-                      required
-                    ></v-text-field>
+                    <v-text-field v-model="form.companyName" label="Company Name *" :rules="[rules.required]"
+                      required></v-text-field>
                   </v-col>
                   <v-col cols="10" md="5">
-                    <v-text-field
-                      v-model="form.website"
-                      label="Website URL *"
-                      :rules="[rules.url]"
-                    ></v-text-field>
+                    <v-text-field v-model="form.website" label="Website URL *" :rules="[rules.url]"></v-text-field>
                   </v-col>
                 </v-row>
 
                 <v-row justify="center">
                   <v-col cols="10">
-                    <v-select
-                      v-model="form.employees"
-                      label="How many employees work there? *"
-                      :items="['1-10', '11-50', '51-200', '201-500', '501+']"
-                      :rules="[rules.required]"
-                      required
-                    ></v-select>
+                    <v-select v-model="form.employees" label="How many employees work there? *"
+                      :items="['1-10', '11-50', '51-200', '201-500', '501+']" :rules="[rules.required]"
+                      required></v-select>
                   </v-col>
                 </v-row>
 
@@ -132,12 +94,7 @@
 
                 <v-row justify="center">
                   <v-col cols="12" class="text-center">
-                    <v-btn
-                      color="orange"
-                      href="#/calendar"
-                      type="submit"
-                      class="white--text v-col v-col-10 pb-5"
-                    >
+                    <v-btn color="orange" href="#/calendar" type="submit" class="white--text v-col v-col-10 pb-5">
                       Get your free demo
                     </v-btn>
                   </v-col>
@@ -309,10 +266,10 @@ export default {
   padding: 20px;
 }
 
-@media  (max-width: 960px) {
-    .form-container{
-      max-height: max-content !important;
-    }
+@media (max-width: 960px) {
+  .form-container {
+    max-height: max-content !important;
+  }
 }
 
 .v-btn {
@@ -336,10 +293,5 @@ export default {
 
 [class="ligth"] .text-container-block {
   color: white;
-}
-
-
-@media  (max-width:) {
-  
 }
 </style>
