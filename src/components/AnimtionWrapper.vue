@@ -7,7 +7,7 @@ export default {};
     <div class="header-animation-wrapper">
       <!-- <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/money.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/money.webp" alt="" />
           <p>
             Digital Marketing 
           </p>
@@ -15,43 +15,43 @@ export default {};
       </div> -->
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/analytics.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/analytics.webp" alt="" />
         </div>
         <p>Digital Marketing</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/money.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/money.webp" alt="" />
         </div>
         <p>Digital PR</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/analytics.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/analytics.webp" alt="" />
         </div>
         <p>Project Management</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/money.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/money.webp" alt="" />
         </div>
         <p>Web Development</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/analytics.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/analytics.webp" alt="" />
         </div>
         <p>AI Development</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/money.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/money.webp" alt="" />
         </div>
         <p>CMS Development</p>
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/analytics.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/analytics.webp" alt="" />
         </div>
         <p>
            Web Design 
@@ -59,7 +59,7 @@ export default {};
       </div>
       <div class="icons-container">
         <div>
-          <img width="60" src="../Img/WrapperAnimation/money.webp" alt="" />
+          <img width="60" src="/Img/WrapperAnimation/money.webp" alt="" />
         </div>
         <p>
           Graphic Design
@@ -67,7 +67,7 @@ export default {};
       </div>
       <div class="main-image-wrapper">
         <div class="img-text">
-          <img wo src="../Img/WrapperAnimation/V1.png" alt="" />
+          <img wo src="/Img/WrapperAnimation/V1.png" alt="" />
           <p>1 JavaScript / 1 Platform</p>
         </div>
         <div class="border-animation"></div>
@@ -216,7 +216,7 @@ export default {};
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../Img/WrapperAnimation/head-anim-img.webp");
+  background-image: url("/Img/WrapperAnimation/head-anim-img.webp");
   background-size: cover;
   position: relative;
 }
@@ -231,7 +231,7 @@ export default {};
 .border-animation {
   width: 200px;
   height: 200px;
-  background-image: url("../Img/WrapperAnimation/anim-img.webp");
+  background-image: url("/Img/WrapperAnimation/anim-img.webp");
   background-repeat: no-repeat;
   background-size: 200px 200px;
   display: flex;

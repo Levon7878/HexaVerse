@@ -6,7 +6,7 @@ import Button from "./Button.vue";
   <div class="img-container">
     <div class="container_2">
       <div class="img-block">
-        <img src="../Img/about.png" alt="" />
+        <img src="/Img/about.png" alt="" />
       </div>
       <div class="container_3">
         <div class="text-block">
@@ -19,7 +19,7 @@ import Button from "./Button.vue";
         <div class="icons-text-block">
           <div class="icons-text">
             <div class="icon">
-              <img src="../Img/doller.png" alt="" />
+              <img src="/Img/doller.png" alt="" />
             </div>
             <h3>{{ $t('about.expTitle1') }}</h3>
           </div>
@@ -30,7 +30,7 @@ import Button from "./Button.vue";
         <div class="icons-text-block">
           <div class="icons-text">
             <div class="icon">
-              <img src="../Img/profile.png" alt="" />
+              <img src="/Img/profile.png" alt="" />
             </div>
             <h3>{{ $t('about.expTitle2') }}</h3>
           </div>

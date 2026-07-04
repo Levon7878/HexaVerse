@@ -3,16 +3,16 @@ export default {
   data() {
     return {
       items1: [
-        { text: "WordPress", image: "src/Img/about.png" },
-        { text: "OpenCart", image: "src/Img/about.png" },
-        { text: "Joomla", image: "src/Img/about.png" },
-        { text: "Drupal", image: "src/Img/about.png" },
+        { text: "WordPress", image: "/Img/about.png" },
+        { text: "OpenCart", image: "/Img/about.png" },
+        { text: "Joomla", image: "/Img/about.png" },
+        { text: "Drupal", image: "/Img/about.png" },
       ],
       items2: [
-        { text: "Webflow", image: "src/Img/about.png" },
-        { text: "Wix", image: "src/Img/about.png" },
-        { text: "Squarespace", image: "src/Img/about.png" },
-        { text: "Shopify", image: "src/Img/about.png" },
+        { text: "Webflow", image: "/Img/about.png" },
+        { text: "Wix", image: "/Img/about.png" },
+        { text: "Squarespace", image: "/Img/about.png" },
+        { text: "Shopify", image: "/Img/about.png" },
       ],
     };
   },

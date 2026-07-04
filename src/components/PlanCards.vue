@@ -48,7 +48,7 @@ export default {
             </div>
             <div class="text-img">
               <a href="">{{ $t(services.text) }}</a>
-              <img :src="'src/Img/blog' + services.src + '.jpg'" alt="" />
+              <img :src="'/Img/blog' + services.src + '.jpg'" alt="" />
             </div>
             <div class="links-text">
               <p>{{ $t(services.text2) }}</p>

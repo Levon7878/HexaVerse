@@ -27,10 +27,10 @@ import { Pagination } from 'swiper/modules';
 
 
 const logos = [
-  { id: 1, img: "src/Img/AnimationSlide/arnology.png" },
-  { id: 2, img: "src/Img/AnimationSlide/art-house.svg" },
-  { id: 3, img: "src/Img/AnimationSlide/itm.svg" },
-  { id: 4, img: "src/Img/AnimationSlide/sccode.png" },
+  { id: 1, img: "/Img/AnimationSlide/arnology.png" },
+  { id: 2, img: "/Img/AnimationSlide/art-house.svg" },
+  { id: 3, img: "/Img/AnimationSlide/itm.svg" },
+  { id: 4, img: "/Img/AnimationSlide/sccode.png" },
 ];
 </script>
 

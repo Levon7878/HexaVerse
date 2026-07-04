@@ -2,7 +2,7 @@
   <div class="meet-container">
     <div class="team-block ">
       <div class="team-img-box " >
-        <img src="../Img/BusinessMW/bwm2.jpg" alt="Team Image"  />
+        <img src="/Img/BusinessMW/bwm2.jpg" alt="Team Image"  />
         <div class="text-team-box">
           <div class="meet-team-text ">
             <h4>{{ $t('team.subtitle1') }}</h4>

@@ -38,7 +38,7 @@ const testObj = [
     clinetName: "testimonials.client1.name",
     position: "testimonials.client1.position",
     testomonial: "testimonials.client1.text",
-    image: "src/Img/ClientTestomonials/test-1.jpg",
+    image: "/Img/ClientTestomonials/test-1.jpg",
     rating: ref(0),
   },
   {
@@ -46,7 +46,7 @@ const testObj = [
     clinetName: "testimonials.client2.name",
     position: "testimonials.client2.position",
     testomonial: "testimonials.client2.text",
-    image: "src/Img/ClientTestomonials/test-2.jpg",
+    image: "/Img/ClientTestomonials/test-2.jpg",
     rating: ref(0),
   },
   {
@@ -54,7 +54,7 @@ const testObj = [
     clinetName: "testimonials.client3.name",
     position: "testimonials.client3.position",
     testomonial: "testimonials.client3.text",
-    image: "src/Img/ClientTestomonials/test-3.jpg",
+    image: "/Img/ClientTestomonials/test-3.jpg",
     rating: ref(0),
   },
   {
@@ -62,7 +62,7 @@ const testObj = [
     clinetName: "testimonials.client4.name",
     position: "testimonials.client4.position",
     testomonial: "testimonials.client4.text",
-    image: "src/Img/ClientTestomonials/test-4.jpg",
+    image: "/Img/ClientTestomonials/test-4.jpg",
     rating: ref(0),
   },
   {
@@ -70,7 +70,7 @@ const testObj = [
     clinetName: "testimonials.client5.name",
     position: "testimonials.client5.position",
     testomonial: "testimonials.client5.text",
-    image: "src/Img/ClientTestomonials/test-5.jpg",
+    image: "/Img/ClientTestomonials/test-5.jpg",
     rating: ref(0),
   },
   {
@@ -78,7 +78,7 @@ const testObj = [
     clinetName: "testimonials.client6.name",
     position: "testimonials.client6.position",
     testomonial: "testimonials.client6.text",
-    image: "src/Img/ClientTestomonials/test-6.jpg",
+    image: "/Img/ClientTestomonials/test-6.jpg",
     rating: ref(0),
   },
 ];

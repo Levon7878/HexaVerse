@@ -133,9 +133,9 @@ import { watch } from "vue";
 import DarkMode from "./DarkMode.vue";
 import Button from "./Button.vue";
 import BurgerMenu from "./BurgerMenu.vue";
-import Flag1 from "../Img/flag1.png";
-import Flag2 from "../Img/flag2.png";
-import Flag3 from "../Img/flag3.png";
+const Flag1 = "/Img/flag1.png";
+const Flag2 = "/Img/flag2.png";
+const Flag3 = "/Img/flag3.png";
 import { useI18n } from "vue-i18n";
 
 export default {

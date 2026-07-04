@@ -39,7 +39,7 @@
 
         </div>
         <div class="block-text-image">
-          <img src="../Img/it-1.jpg" alt="Contact Us Image" />
+          <img src="/Img/it-1.jpg" alt="Contact Us Image" />
 
         </div>
       </div>

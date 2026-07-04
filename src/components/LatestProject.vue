@@ -36,7 +36,7 @@ export default {
               <div class="container-img">
                 <div class="container-absolute"></div>
                 <img
-                  :src="'src/Img/LatestRate/rate' + card.src + '.svg'"
+                  :src="'/Img/LatestRate/rate' + card.src + '.svg'"
                   alt=""
                 />
                 <div class="color-overlay"></div>

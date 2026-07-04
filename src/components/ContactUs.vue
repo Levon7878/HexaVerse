@@ -144,7 +144,7 @@
                 >
               </v-row>
               <div class="box-img animate__animated animate__backInUp">
-                <img src="../Img/ContactUs/letter_send.png" alt="" />
+                <img src="/Img/ContactUs/letter_send.png" alt="" />
               </div>
             </div>
           </v-card>

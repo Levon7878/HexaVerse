@@ -54,7 +54,7 @@ export default {
         </div>
       </div>
       <div class="img-box">
-        <img :src="`/src/Img/bg_img.png`" alt="" />
+        <img :src="`/Img/bg_img.png`" alt="" />
       </div>
     </div>
   </div>

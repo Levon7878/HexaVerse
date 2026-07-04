@@ -23,7 +23,7 @@
       <v-row class="flex-column">
         <div class="img-block">
           <img
-            src="../Img/Newsletter/subscription.png"
+            src="/Img/Newsletter/subscription.png"
             style="max-width: 500px"
             alt=""
           />
@@ -94,7 +94,7 @@ const subscribe = (item) => {
 }
 
 .main-background {
-  background-image: url("../Img/Newsletter/simple-blue.png");
+  background-image: url("/Img/Newsletter/simple-blue.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

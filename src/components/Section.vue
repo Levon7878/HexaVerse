@@ -68,7 +68,7 @@ export default {
 
 .img-box {
   position: relative;
-  background-image: url("../Img/bg01.png");
+  background-image: url("/Img/bg01.png");
   width: 100%;
   max-width: 600px;
   height: 600px;
@@ -260,7 +260,6 @@ export default {
 }
 
 .aa {
-  background-image: url();
 }
 
 @media screen and (max-width: 400px) {

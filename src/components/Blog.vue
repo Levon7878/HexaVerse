@@ -33,7 +33,7 @@
         </div>
         <div class="recent-img-container">
           <div class="recent-img-block">
-            <img src="../Img/Blog/feature-voting.jpg" alt="" />
+            <img src="/Img/Blog/feature-voting.jpg" alt="" />
           </div>
           <div class="text-container">
             <div class="proffession-date">

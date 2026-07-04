@@ -36,7 +36,7 @@ export default {
           <h4>{{ $t('strategy.subtitle') }}</h4>
           <h3>{{ $t('strategy.title') }}</h3>
         </div>
-        <img src="/src/Img/work.png" alt="" />
+        <img src="/Img/work.png" alt="" />
       </div>
     </div>
   </section>
