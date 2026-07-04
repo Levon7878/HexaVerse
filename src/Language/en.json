@@ -1,0 +1,375 @@
+{
+    "nav": {
+        "homepage": "Homepage",
+        "aboutUs": "About Us",
+        "ourStory": "Our Story",
+        "meetTheTeam": "Meet the Team",
+        "servicesOverview": "Services Overview",
+        "digitalMarketing": "Digital Marketing",
+        "digitalPR": "Digital PR",
+        "projectManagement": "Project Management",
+        "webDevelopment": "Web Development",
+        "aiDevelopment": "AI Development",
+        "cmsDevelopment": "CMS Development",
+        "webDesign": "Web Design",
+        "graphicDesign": "Graphic Design",
+        "clientTestimonials": "Client Testimonials",
+        "caseStudies": "Case Studies | Portfolio",
+        "blog": "Blog",
+        "contact": "Contact",
+        "newsletter": "Newsletter"
+    },
+    "planBlock": {
+        "title": "View Plan",
+        "heading": "View Our Pricing Plan And Start Your Project",
+        "included": "What's Included in Plan",
+        "button": "Get Started Now",
+        "month": "/Month",
+        "plans": {
+            "basic": "Basic Plan",
+            "business": "Business Plan",
+            "premium": "Premium Plan"
+        },
+        "desc": {
+            "work": "Work closely with clients to understand their business goals, target audience.",
+            "marketingAd": "Digital marketing agencies often run paid advertising campaigns for themselves. This includes creating compelling."
+        },
+        "features": {
+            "basicMarketing": "Basic social media management and SEO",
+            "basicPr": "Press release creation and distribution",
+            "basicWeb": "Basic website setup (up to 5 pages)",
+            "basicDesign": "Template-based design",
+            "basicAi": "Simple chatbot integration",
+            "basicCms": "Basic CMS setup (e.g., WordPress)",
+            "basicProj": "Basic project planning and monitoring",
+            "basicGraph": "Basic logo and branding materials",
+            
+            "bizMarketing": "Comprehensive social media management, content creation, and SEO",
+            "bizPr": "Press release creation, distribution, and media outreach",
+            "bizWeb": "Custom website development (up to 10 pages) with advanced features",
+            "bizDesign": "Custom design tailored to your brand’s identity",
+            "bizAi": "Advanced chatbot integration and basic AI-driven analytics",
+            "bizCms": "Custom CMS setup with personalized plugins and themes",
+            "bizProj": "Detailed project planning, tracking, and reporting",
+            "bizGraph": "Full branding package including logo, business cards, and promotional materials",
+
+            "premMarketing": "Full-service digital marketing strategy, including social media management, content creation, SEO, PPC, and email marketing.",
+            "premPr": "Comprehensive PR strategy, including press release creation, distribution, media outreach, and influencer marketing.",
+            "premWeb": "Advanced custom website development (unlimited pages), with e-commerce integration, custom functionalities, and ongoing support.",
+            "premDesign": "Premium, fully custom design with UX/UI optimization, mobile-first design, and regular updates.",
+            "premAi": "Full-scale AI solutions, including advanced chatbot integration, predictive analytics, and machine learning algorithms.",
+            "premCms": "Tailored CMS setup with custom features, API integrations, and ongoing maintenance.",
+            "premProj": "End-to-end project management, including agile methodologies, detailed tracking, and regular reporting.",
+            "premGraph": "Comprehensive design services, including full brand identity, marketing materials, digital and print assets, and ongoing creative support."
+        },
+        "articles": {
+            "title1": "Boost Your Business with Our Expertise",
+            "desc1": "Digital marketing agencies run paid advertising campaigns for themselves.",
+            "desc2": "Graphic Design & Digital PR.",
+            "title3": "How can you start your business for your next generation",
+            "desc3": "Project Management for Seamless Execution."
+        }
+    },
+    "latestProject": {
+        "title": "View Our Latest Project",
+        "heading": "Our Latest Case Studies For Our Marketing Clients",
+        "items": {
+            "client": "Client",
+            "webDev": "Web Development",
+            "dev": "Development"
+        }
+    },
+    "marketingTexts": {
+        "title":"digitalMarketing",
+        "text1":"Transforming Digital Visions into Reality",
+        "text2":"Innovative Digital Solutions Tailored for Your Business Growth",
+        "text3":"Digital marketing agencies often run paid advertising campaigns for themselves. This includes creating compelling ad copy for platforms like Google Ads, Facebook Ads, and LinkedIn Ads."
+    },
+    "about": {
+        "title": "About Us",
+        "heading": "Save Your Times And Money With Our Agencies",
+        "desc": "At HexaVerse, we specialize in turning complex technological challenges into streamlined, cutting-edge solutions, empowering businesses to thrive in the digital age.",
+        "expTitle1": "Experience and Expertise",
+        "expDesc1": "At HexaVerse, we are dedicated to transforming digital visions into reality. Our mission is to empower businesses with innovative IT solutions that drive growth and success.",
+        "expTitle2": "Experience and Expertise",
+        "expDesc2": "Founded in 2024, HexaVerse has consistently delivered top-notch IT services, including digital transformation, web development, software solutions, cybersecurity, and cloud solutions. Our team of skilled professionals is committed to excellence and innovation in every project."
+    },
+    "footer": {
+        "innovating": "Innovating Your Digital Future",
+        "subscribe": "Subscribe Now",
+        "subscribeDesc": "Stay updated with the latest in IT solutions and services. Subscribe to our newsletter",
+        "aboutUs": "About Us",
+        "getInTouch": "Get in Touch",
+        "terms": "Terms & Condition",
+        "privacy": "Privacy Policy",
+        "payment": "Make a Payment",
+        "contact": "Our Contact",
+        "monFri": "Mon - Fri 10:00 - 18:00",
+        "address": "49 Tigran Mets Avenue, Yerevan."
+    },
+    "strategy": {
+        "subtitle": "How It Work",
+        "title": "Our Proven IT Solutions Process",
+        "items": {
+            "1": {
+                "str": "Discovery & Planning",
+                "txt": "We start by understanding your business needs and challenges. Through thorough analysis and strategic planning, we craft a roadmap tailored to your goals, whether it’s optimizing your digital infrastructure, developing a new software solution, or enhancing your online presence."
+            },
+            "2": {
+                "str": "Design & Development",
+                "txt": "Based on the insights gathered, our team designs and develops IT solutions that are customized to your business. From user-friendly interfaces to robust backend systems, we ensure that every aspect aligns with your objectives."
+            },
+            "3": {
+                "str": "Implementation & Optimization",
+                "txt": "After development, we implement the solutions and continuously optimize them to ensure peak performance. Our process doesn’t stop at launch—we provide ongoing support and enhancements to keep your business ahead of the curve."
+            }
+        }
+    },
+    "team": {
+        "subtitle1": "TEAM",
+        "title1": "Meet Our Team",
+        "desc1": "Commodo elementum, sed imperdiet nunc euismod etiam aliquet viverra. Adipiscing nunc condimentum risus id. Aquam mattis magna facilisi fermentum, euismod. Porttitor sit tincidunt dictum facilisi eget orci velit. Nulla laoreet nunc gravida augue aenean sed elementum, in.",
+        "founderName": "John William",
+        "founderTitle": "OUR FOUNDER",
+        "founderQuote": "Commodo elementum, sed imperdiet nunc euismod etiam aliquet viverra.",
+        "subtitle2": "TEAM",
+        "title2": "Meet Our Staff",
+        "desc2": "TEAM Meet Our Staff Commodo elementum, sed imperdiet nunc euismod etiam aliquet viverra enim. Adipiscing nunc condimentum risus id. Aquam mattis magna facilisi.",
+        "positions": {
+            "ceo": "CEO",
+            "managerProject": "Manager Project",
+            "marketingManager": "Marketing Manager",
+            "itManager": "IT Manager",
+            "softwareEngineer": "Software Engineer",
+            "webDesigner": "Web Designer",
+            "uiDeveloper": "XU/UI Developer",
+            "webDeveloper": "Web Developer"
+        }
+    },
+    "servicesBlock": {
+        "title": "Services",
+        "heading": "What Services We Provide For Yur Business",
+        "items": {
+            "marketingDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "prDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "projectDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "webDevDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "webDesignDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "graphicDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum culpa dolorum harum?",
+            "moreDetails": "More Details"
+        }
+    },
+    "whyChoose": {
+        "subtitle": "Why Choose Kulan",
+        "title": "We Help Your Business Evolve with Advanced IT and Digital Solutions",
+        "desc": "Building tomorrow's success with today's technology.",
+        "award1": "World IT Services Excellence Award 2024",
+        "award2": "Innovation in Digital Transformation Award 2024",
+        "benefit1": "Recognized for our excellence in delivering scalable and secure IT infrastructure solutions tailored to meet the unique needs of our clients.",
+        "benefit2": "Honored for our groundbreaking work in implementing AI-driven customer engagement platforms that redefine client experiences."
+    },
+    
+    "marketingButton":{
+        "butt":"More About us"
+    },
+    "contactUs": {
+        "title": "Contact Us",
+        "subtitle": "Any question or remarks? Just write us a message!",
+        "infoTitle": "Contact Information",
+        "infoSubtitle": "Say something to start a live chat!",
+        "form": {
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phone": "Phone Number",
+            "hearAbout": "How did you hear about us?",
+            "social": "Social networks",
+            "friends": "Friends",
+            "other": "Other",
+            "select": "Select Region",
+            "message": "Message",
+            "messagePlaceholder": "Write your message..",
+            "send": "Send Message"
+        }
+    },
+    "blog": {
+        "title": "BLOGS",
+        "heading": "Blogs on product management & user feedback",
+        "category": "READ BY CATEGORY",
+        "recent": "RECENT POSTS",
+        "posts": {
+            "customerFeedback": "Customer feedback",
+            "productManagement": "Product Management",
+            "roadmapping": "Roadmapping",
+            "post1Title": "18 UserVoice Alternatives & Competitors For Managing Customer Feedback",
+            "post1Desc": "Top 18 UserVoice Alternatives and Competitors are Supahub, Aha, Productboard, Pendo,",
+            "post2Title": "Bug vs Feature: Understanding the Difference and Prioritizing Effectively",
+            "post2Desc": "Understand the difference between bugs and features in software development. Learn to",
+            "post3Title": "15 Best Upvoty Alternatives: Top Tools for Feedback & Changelog",
+            "post3Desc": "Discover 15 Upvoty alternatives for feedback & changelog management, including Supahub,",
+            "mainPostTitle": "Top 14 Feature Voting Tools for SaaS Companies",
+            "mainPostDesc": "Discover the top 14 feature voting tools for SaaS companies. Learn how to prioritize product development and boost customer satisfaction."
+        }
+    },
+    "testimonials": {
+        "title": "What Our Clients Say",
+        "subtitle": "Hear from Businesses Transformed by HexaVerse",
+        "client1": {
+            "name": "Jane Doe",
+            "position": "CEO, TechStart",
+            "text": "HexaVerse transformed our online presence and drove incredible growth. Their strategic approach to digital marketing and deep understanding of our industry set them apart. We saw a significant increase in traffic and conversions within just a few months. The team is professional, responsive, and truly cares about our success."
+        },
+        "client2": {
+            "name": "John Smith",
+            "position": "Founder, InnovateHub",
+            "text": "The expertise and dedication of the HexaVerse team were evident in every project they undertook for us. From web development to digital PR, they delivered outstanding results that exceeded our expectations. Our website is now more user-friendly, and our brand visibility has skyrocketed. HexaVerse is a valuable partner in our growth journey."
+        },
+        "client3": {
+            "name": "Lisa Brown",
+            "position": "Marketing Director, NextGen Solutions",
+            "text": "The innovative solutions provided by HexaVerse helped us achieve our business goals more efficiently. Their AI development and data analysis services gave us valuable insights that we never had before. The team's creativity and technical skills are unmatched. I highly recommend HexaVerse to any company looking to enhance their digital capabilities."
+        },
+        "client4": {
+            "name": "Mark Thompson",
+            "position": "COO, GreenTech Innovations",
+            "text": "Working with HexaVerse has been a game-changer for our company. Their comprehensive digital marketing strategies and excellent project management skills ensured that our campaigns were successful and delivered on time. The results speak for themselves – increased engagement, higher conversion rates, and a stronger online presence."
+        },
+        "client5": {
+            "name": "Susan Lee",
+            "position": "Head of Communications, BlueWave Enterprises",
+            "text": "HexaVerse's team is a pleasure to work with. They took the time to understand our brand and created a digital marketing strategy that perfectly aligned with our goals. Their content marketing and social media management services have significantly boosted our brand's visibility and engagement. We couldn't be happier with the results."
+        },
+        "client6": {
+            "name": "Robert Williams",
+            "position": "Founder & CEO, BrightFuture Tech",
+            "text": "HexaVerse delivered a top-notch website that is both aesthetically pleasing and highly functional. Their attention to detail and commitment to quality are impressive. The CMS they developed for us has made content management a breeze, and our team can now focus more on creating valuable content for our audience."
+        }
+    },
+    "webDev": {
+        "title": "Web Development",
+        "subtitle": "Creating robust and responsive websites",
+        "frontend": "Front-end Development",
+        "backend": "Backend frameworks",
+        "thanks": "Thanks to Chris Coyier"
+    },
+    "graphicDesign": {
+        "title": "Graphic Design",
+        "subtitle": "Visual designs that communicate your brand effectively."
+    },
+    "graphicDesignCards": {
+        "branding": "Branding and Identity Design",
+        "logo": "Logo Design",
+        "websiteGraphics": "Website Graphics (Icons, Buttons, Banners)",
+        "infographic": "Infographic Design",
+        "socialMedia": "Social Media Graphics",
+        "illustration": "Illustration for Websites",
+        "uiDesign": "User Interface (UI) Design Elements",
+        "typography": "Typography Design for Web Content"
+    },
+    "projectManagement": {
+        "title": "Project Management",
+        "subtitle": "Guiding teams to success through seamless collaboration."
+    },
+    "projectManagementCards": {
+        "traditional": "Traditional Project Management",
+        "agile": "Agile Project Management",
+        "scrum": "Scrum Project Management",
+        "lean": "Lean Project Management",
+        "kanban": "Kanban Project Management",
+        "waterfall": "Waterfall Project Management",
+        "prince2": "PRINCE2 Project Management",
+        "sixSigma": "Six Sigma Project Management"
+    },
+    "webDesign": {
+        "title": "Web Design",
+        "subtitle": "Designing digital experiences that inspire and engage.",
+        "uxui": "UX/UI Design",
+        "responsive": "Responsive Design",
+        "ecommerce": "E-commerce Design",
+        "landing": "Landing Page Design",
+        "redesign": "Website Redesign",
+        "mobile": "Mobile Design",
+        "branding": "Branding and Identity Design"
+    },
+    "cmsDev": {
+        "title": "Open Source CMS",
+        "subtitle": "Custom content management systems for easy control.",
+        "saasCms": "SaaS CMS"
+    },
+    "aiDev": {
+        "title": "AI Development",
+        "subtitle": "Innovative AI solutions for smarter business operations."
+    },
+    "aiDevCards": {
+        "narrowTitle": "Narrow AI",
+        "narrowDesc": "AI designed to complete very specific actions; unable to independently learn",
+        "generalTitle": "Artificial General Intelligence",
+        "generalDesc": "AI designed to learn, think and perform at similar levels to humans.",
+        "superTitle": "Artificial Superintelligence",
+        "superDesc": "AI able to surpass the knowledge and capabilities of humans.",
+        "reactiveTitle": "Reactive Machine AI",
+        "reactiveDesc": "AI capable of responding to external stimuli in real time; unable to build memory or store information for future.",
+        "limitedTitle": "Limited Memory AI",
+        "limitedDesc": "AI that can store knowledge and use it to learn and train for future tasks.",
+        "theoryTitle": "Theory of Mind AI",
+        "theoryDesc": "AI that can sense and respond to human emotions, plus perform the tasks of limited memory machines.",
+        "selfAwareTitle": "Self-Aware AI",
+        "selfAwareDesc": "AI that can recognize others’ emotions, plus has sense of self and human-level intelligence; the final stage of AI."
+    },
+    "digital": {
+        "title": "What Services We Provide For Your Business",
+        "subtitle": "Empowering your brand with tailored digital strategies",
+        "services": "Services"
+    },
+    "digitalPr": {
+        "title": "Digital PR",
+        "subtitle": "Building your online reputation through strategic PR"
+    },
+    "digitalCards": {
+        "seo": "Search Engine Optimization (SEO)",
+        "sem": "Search Engine Marketing (SEM) / Pay-Per-Click Advertising (PPC)",
+        "smm": "Social Media Marketing (SMM)",
+        "cm": "Content Marketing",
+        "em": "Email Marketing",
+        "am": "Affiliate Marketing",
+        "im": "Influencer Marketing"
+    },
+    "news": {
+        "title": "Your new favorite emails about email",
+        "subtitle": "Subscribe to keep your know-how fresh on email marketing, design, and development",
+        "text1": "Get email strategies, how-tos, and more from our Litmus newsletter & emails",
+        "text2": "For Email Pros, By Email Pros →",
+        "text3": "You’ll be inspired by our content–and our beautiful design and coding techniques",
+        "emailLabel": "Email",
+        "subscribe": "Subscribe"
+    },
+    "newsLetters": {
+        "newsTitle": "Litmus News",
+        "newsDesc": "Our monthly newsletter packed with all the email insights, tips, and trends you need to know.",
+        "weeklyTitle": "Litmus Weekly",
+        "weeklyDesc": "The best content from the Litmus blog and around the community delivered to your inbox every Thursday.",
+        "updatesTitle": "Product Updates",
+        "updatesDesc": "Get monthly tips, insights, and stories to help you get the most out of Litmus in the Product Pulse—plus be the first to know about what’s new in Litmus.",
+        "reportsTitle": "Reports & Ebooks",
+        "reportsDesc": "Guides, ebooks, and research reports to help make your marketing more effective than ever.",
+        "eventsTitle": "Events",
+        "eventsDesc": "Be the first to know about our upcoming virtual and in-person events.",
+        "liveTitle": "Litmus Live",
+        "liveDesc": "Stay up-to-date with Litmus’ annual email conference, Litmus Live."
+    },
+    "getIn": {
+        "title": "Get in touch",
+        "subtitle": "Reach out, and let's create a universe of possibilities together!",
+        "connectTitle": "Let's connect constellations",
+        "connectSubtitle": "Let's align our constellations! Reach out and let the magic of collaboration illuminate our skies.",
+        "submit": "Submit"
+    },
+    "slider": {
+        "roles": {
+            "webDesigner": "Web Designer",
+            "role2": "Role 2",
+            "role3": "Role 3",
+            "role4": "Role 4"
+        }
+    }
+}
