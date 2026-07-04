@@ -4,17 +4,16 @@ import vue from "@vitejs/plugin-vue";
 import svgLoader from "vite-svg-loader";
 
 export default defineConfig({
-  base: "./",
   plugins: [vue(), svgLoader()],
+  base: "/",
   build: {
-    outDir: "..",
+    outDir: "dist",
     assetsDir: "assets",
-    emptyOutDir: false,
+    emptyOutDir: true
   },
   optimizeDeps: {
     include: ["swiper", "vue3-calendly"],
   },
-
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url)),
